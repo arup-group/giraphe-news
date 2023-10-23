@@ -8,6 +8,6 @@ Bringing together engineering practitioners, researchers, and students from acro
 
 Oasys Senior Business Development Manager, Norbert Kovacs; Head of Oasys Geotechnical Software, Carol Matthews; and Head of Computational Science, Ramaseshan Kannan, were delighted to meet excited visitors at the Oasys Gofer stand to meet some of the people behind the product.
 
-There was a lot of enthusiasm for Gofer’s cloud-based capabilities, and the potential for other innovations along the journey to cloud. Gofer’s clean design and intuitive interface were also singled out, with universities commenting on its potential as a finite element analysis (FEA) learning tool.
+There was a lot of enthusiasm for Gofer’s cloud-based capabilities, and the potential for other innovations along the journey to cloud. Gofer’s clean design and intuitive interface were also singled out, with universities commenting on its potential as a finite element analysis (FEA) learning tool. 
 
 With the start of a new term, our next generation geotechnical analysis software is ready to guide the future cohort of geotechnical engineers.
