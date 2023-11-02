@@ -1,8 +1,7 @@
-# A postcard from NUMGE
 
-![Oasys team at NUMGE](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/NUMGE_image.svg)
+![placeholder image](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/NUMGE_image.svg)
 
-As autumn begins, we're looking back on a summer of creativity, conversations, and - in the UK at least - occasionally questionable weather. This summer, Oasys Gofer has been out and about on a very special adventure, the 10th European conference on Numerical Methods in Geotechnical Engineering (NUMGE). This was the first event sponsored by Oasys Gofer and the team met students, academics, and industry professionals at the conference, held at Imperial College, London. 
+PLACEHOLDER TEXT As autumn begins, we're looking back on a summer of creativity, conversations, and - in the UK at least - occasionally questionable weather. This summer, Oasys Gofer has been out and about on a very special adventure, the 10th European conference on Numerical Methods in Geotechnical Engineering (NUMGE). This was the first event sponsored by Oasys Gofer and the team met students, academics, and industry professionals at the conference, held at Imperial College, London. 
 
 Bringing together engineering practitioners, researchers, and students from across Europe, this event was a springboard for three days of discussions on state-of-the-art numerical methods and highly anticipated developments in geotechnical engineering.
 

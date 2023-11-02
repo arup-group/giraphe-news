@@ -1,6 +1,5 @@
-<!---# Getting started with Giraphe --->
 
-![icon Giraphe depicted under a start banner with a flag in its mouth](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/getting-started-article-image.svg)
+![icon Giraphe under a start banner with a flag in its mouth](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/getting-started-article-image.svg)
 
 Giraphe is the latest cloud-based solution from Oasys. Smart, powerful, and user-friendly: welcome to geotechnical graphing for the digital age. Produced in partnership with Seequent, Giraphe takes the hard work out of graphing, communicating seamlessly with OpenGround data and automatically saving your creations. Create, refresh and export report-ready graphs from wherever you have an internet connection. 
 
