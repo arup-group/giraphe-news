@@ -1,5 +1,4 @@
-
-![Photo of: Norbert Kovacs - Oasys, Phil Child - Seequent, Mark Skinner - Oasys, in front of Giraphe booth](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/Smartgeo-Seequent-and-Oasys.jpg)
+![Photo of: Norbert Kovacs - Oasys, Phil Child - Seequent, Mark Skinner - Oasys, in front of Giraphe booth](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/Smartgeo-Seequent-and-Oasys.svg)
 
 The Oasys team exhibited again at the second Smart Geotechnic Conference in London on the 5th of October! There was lots of excitement on all sides. We got to meet with you, learn from you, and share with you. And lots of interest for our new friends and product. 
 
