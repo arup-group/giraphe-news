@@ -14,8 +14,6 @@ It all begins with a Collection. This is where your project data and graphs are 
 
 Whether you’re working with in situ or lab results; geo-environmental or monitoring data, Giraphe’s graph library allows you to choose from a range of ready-made graph templates or build your own blank graph with our flexible display options.
 
-![test image size](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/getting-started-article-image.svg)
-
 ## OpenGround
 
 Giraphe works in-sync with OpenGround project data to provide you with a seamless, synchronised flow of information for your graphs. To build your graphs, simply choose from the OpenGround clouds and projects you have access to. You can also refresh graphs to reflect changes in OpenGround, or as you start to interpret your data so that your graphs are ready to export and share.
@@ -23,7 +21,6 @@ Giraphe works in-sync with OpenGround project data to provide you with a seamles
 ## Datasets
 
 Collection graphs are populated using data saved in Giraphe datasets. These can be uploaded from a CSV file, pulled from an OpenGround project using a template graph, or created as a custom dataset customised using Giraphe’s query builder.
-![placeholder image](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/gofer/Birthday_Version_1.gif)
 
 ## Exports
 
