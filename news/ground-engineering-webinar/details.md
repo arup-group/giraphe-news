@@ -12,14 +12,14 @@ Through our technology partnership with Seequent, we were able to develop Oasys 
 
 So how does it work? As Mark demonstrated during the webinar, it all starts with Giraphe’s collections. Collections are the foundation for your graphs in Giraphe because this is where your projects are selected, your datasets are defined, and exports become possible. 
 
-Collections contain graphs and datasets that are associated with a particular project, settings allow for OpenGround default project for adding more graphs in future. 
+**Collections** contain graphs and datasets that are associated with a particular **project**, settings allow for OpenGround default project for adding more graphs in future. 
 You can start the process of building graphs by selecting a project  in OpenGround and making this project the default for your collection, or you can upload your own data in a .CSV headed table. 
 
 ![Infographic: Illustrating the workflow from OpenGround data into graphs in Giraphe with ability to refresh the data.](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/working-with-your-data-giraphe-add-more-data-1.svg)
 
 After selecting a project in OpenGround, you can create a dataset, use a template from Girpahe’s graph library or build a custom graph. Creating the dataset or selecting a template triggers the process of copying the necessary data for your graph or dataset into Giraphe, creating a snapshot if you will, to allow for self-contained graphs.
 
-Look out for our interactive graphing features. Use your mouse to highlight, for example, geology or key elements as you explore the data. You can query OpenGround and Giraphe will pick up all of the fields in your selected project. You can then filter between all fields or define the data for your datasets as needed. Add a series by selecting a dataset and assigning those values to your axes, you can also select and assign colours, for example, to differentiate geology codes.  
+Look out for our interactive graphing features. Use your mouse to highlight, for example, geology or key elements as you explore the data. You can query OpenGround and Giraphe will pick up all of the fields in your selected project. You can then filter between all fields or define the data for your datasets as needed. Add a **series** by selecting a dataset and assigning those values to your axes, you can also select and assign colours, for example, to differentiate geology codes.  
 
 Select the graphs from the collection that you want to export.  All exports are in scalable file formats ready for pasting into your reports without importing or scaling issues.
 
