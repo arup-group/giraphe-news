@@ -1,0 +1,29 @@
+<svg width="900" height="350" viewBox="0 0 900 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_8767_1099)">
+<rect width="900" height="350" fill="#FFF8E8"/>
+<g opacity="0.6">
+<circle cx="42.2502" cy="8.75" r="9.75" fill="#FED77F"/>
+<rect x="22.5" y="-6.5" width="167" height="50" rx="4.5" stroke="#9A9A9A"/>
+<rect x="61" y="3.49994" width="112.5" height="6" rx="3" fill="#B2B2B2"/>
+<rect x="61" y="17.0001" width="76.5" height="6" rx="3" fill="#B2B2B2"/>
+<rect x="61" y="30.5001" width="43.5" height="6" rx="3" fill="#B2B2B2"/>
+</g>
+<g opacity="0.6">
+<circle cx="107.031" cy="75.4688" r="7.71875" fill="#BE1C48"/>
+<rect x="91.5" y="63.5" width="132" height="39.375" rx="4.5" stroke="#9A9A9A"/>
+<rect x="121.875" y="71.3124" width="89.0625" height="4.75" rx="2.375" fill="#B2B2B2"/>
+<rect x="121.875" y="82.0001" width="60.5625" height="4.75" rx="2.375" fill="#B2B2B2"/>
+<rect x="121.875" y="92.6876" width="34.4375" height="4.75" rx="2.375" fill="#B2B2B2"/>
+</g>
+<g opacity="0.6">
+<path opacity="0.7" d="M-68.5 30C-68.5 27.5147 -66.4853 25.5 -64 25.5H48C50.4853 25.5 52.5 27.5147 52.5 30V57.0357C52.5 59.521 50.4853 61.5357 48 61.5357H-64C-66.4853 61.5357 -68.5 59.521 -68.5 57.0357V30Z" fill="#E5E5E5" stroke="#9A9A9A"/>
+<rect x="-42.5132" y="33.5423" width="81.6964" height="4.35714" rx="2.17857" fill="#B2B2B2"/>
+<rect x="-42.5132" y="43.3459" width="55.5536" height="4.35714" rx="2.17857" fill="#B2B2B2"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_8767_1099">
+<rect width="900" height="350" fill="white"/>
+</clipPath>
+</defs>
+</svg>
