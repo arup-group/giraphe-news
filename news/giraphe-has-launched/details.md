@@ -1,4 +1,4 @@
-![Icon Giraphe riding the launch rocket.](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/Giraphe-is-live-article-image.svg)
+![Icon Giraphe riding the launch rocket.](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/Giraphe-is-live-article-image-2.svg)
 
 The Oasys Giraphe team has been riding high on the excitement of longer days and the launch of Giraphe! 
 
