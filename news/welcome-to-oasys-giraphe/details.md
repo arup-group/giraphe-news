@@ -1,0 +1,7 @@
+![Icon Giraphe in front of a microphone with tuxedo ready to speak.](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/welcome-to-Oasys-Giraphe-article-image2.svg)
+
+Join us for our webinar, [**Welcome to Oasys Giraphe: The all-new graphing integration for OpenGround**](https://www.oasys-software.com/webinars/welcome-to-oasys-giraphe/) on the **13th of March, 2024 at 15:30 GMT**. We will introduce you to Giraphe, our **revolutionary geotechnical graphing tool** developed in partnership with Seequent.  
+
+We will demonstrate how you can use Giraphe to graph your own imported data or values held in OpenGround with the ability to refresh your connection on-demand, updating your graph as you explore and interpret results. Gain insights into how this powerful and seamless cloud integration can **enhance your geotechnical data workflows.** See how Giraphe creates report-ready graphs in just a few clicks.  
+
+You'll **get to know Giraphe, with our design team on hand to guide you** through documentation, tutorials and more. [**Register now**](https://events.teams.microsoft.com/event/a03bcd92-4ad5-491a-a2fd-457f64bcec1e@4ae48b41-0137-4599-8661-fc641fe77bea) to learn more about this exciting addition to Oasys Geotechnical and Seequent’s OpenGround geotechnical information management solution. 
