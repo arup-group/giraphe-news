@@ -1,6 +1,6 @@
 ![Two icon Giraphes giving each other a high five.](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/Giraphe_november_article_image.svg)
 
-Watch our webinar **Dynamic Geotechnical Graphing Made Easy with Oasys Giraphe** from **7th November 2024**. We revealed our latest enhancements with real-world examples of Giraphe at work. Presented by **Matthew Brown**, Senior Geotechnical Engineer, **Raul Perulero Serrano**, Product Manager, and **Mark Skinner**, Portfolio Product Manager, the team presented the **new features** that take Giraphe to the next level, making it your essential tool for dynamic geotechnical graphing with OpenGround, Seequent’s geotechnical information management software.
+Watch our webinar **Dynamic Geotechnical Graphing Made Easy with Oasys Giraphe** from **7th November 2024**. We revealed our latest enhancements with real-world examples of Giraphe at work. Presented by **Raul Perulero Serrano**, Product Manager, and **Mark Skinner**, Portfolio Product Manager, the team presented the **new features** that take Giraphe to the next level, making it your essential tool for dynamic geotechnical graphing with OpenGround, Seequent’s geotechnical information management software.
 
 ## What we covered
 
