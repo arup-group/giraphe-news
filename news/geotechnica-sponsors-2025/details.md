@@ -1,4 +1,4 @@
-![PLACEHOLDER IMAGE](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/Giraphe_november_article_image.svg)
+![Graphic showing Giraphe character](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/giraphe-geotechnica-2025-top-image.svg)
 
 We’re excited to be exhibiting at [**Geotechnica**](https://www.equipegroup.com/geotechnica/about) 2025 as **Silver Sponsors** at Warwickshire Event Centre. It’s a fantastic opportunity to connect with other exhibitors and attendees, exchange insights, and strengthen relationships across the geotechnical community.  
 
