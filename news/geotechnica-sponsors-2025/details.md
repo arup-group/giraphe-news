@@ -1,5 +1,7 @@
-![Photo of Arup and Oasys team members at our Geotechnica 2025 booth.](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/norbert-mark-karl-raul-carl-geotechnica-2025.svg)
-<figcaption>Oasys Giraphe team members: Norbert Kovacs, Mark Skinner, Raul Perulero Serrano,  with our partners from Seequent: Karl Daines, Carl Grice in front of our Geotechnica 2025 booth.</figcaption>
+<figure>
+  <img src="https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/norbert-mark-karl-raul-carl-geotechnica-2025.svg">
+  <figcaption>Oasys Giraphe team members: Norbert Kovacs, Mark Skinner, Raul Perulero Serrano,  with our partners from Seequent: Karl Daines, Carl Grice in front of our Geotechnica 2025 booth.</figcaption>
+</figure>
 
 We really enjoyed being at [**Geotechnica** 2025](https://www.equipegroup.com/geotechnica/about). We spoke to lots of you from across the geotechnical community and beyond - great to reconnect with colleagues from the industry. But also a wonderful chance to meet with some longstanding users of our software – and to make new connections! 
 
