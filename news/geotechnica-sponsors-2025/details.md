@@ -1,5 +1,5 @@
 <figure>
-  <img src="[https://example.com/image.png](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/norbert-mark-karl-raul-carl-geotechnica-2025.svg)" alt="Photo of Arup and Oasys team members at our Geotechnica 2025 booth.">
+  <img src="[https://example.com/image.png](https://b2c-templates-arup.s3-eu-west-1.amazonaws.com/giraphe/norbert-mark-karl-raul-carl-geotechnica-2025.svg)" alt="Oasys Giraphe team members: Norbert Kovacs, Mark Skinner, Raul Perulero Serrano,  with our partners from Seequent: Karl Daines, Carl Grice in front of our Geotechnica 2025 booth.">
   <figcaption>Oasys Giraphe team members: Norbert Kovacs, Mark Skinner, Raul Perulero Serrano,  with our partners from Seequent: Karl Daines, Carl Grice in front of our Geotechnica 2025 booth.</figcaption>
 </figure>
 
