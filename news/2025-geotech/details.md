@@ -1,6 +1,6 @@
-![Graphic showing Giraphe character and Gofer character with a GE GeoTech 2025 poster, inviting to join them](https://raw.githubusercontent.com/arup-group/giraphe-news/efcd826d38532fe84bd805d73c76d99299c4f336/news/2025-geotech/topImage.png?raw=true)
+![Graphic showing Giraphe character and Gofer character with a GE GeoTech 2025 poster, inviting to join them](https://raw.githubusercontent.com/arup-group/giraphe-news/main/news/2025-geotech/topImage.png)
 
-Oasys are very proud to be a sponsor of [**Ground Engineering’s GeoTech 2025 Conference**](https://geotech.geplus.co.uk/2025/en/page/home). Having previously exhibited at Smart Geotechnics in 2023 and 2024, we cannot wait to play our part in this expanded iteration of the conference. 
+Oasys are very proud to be a sponsor of [**Ground Engineering’s GeoTech 2025 Conference**](https://geotech.geplus.co.uk/2025/en/page/home). Having previously exhibited at Smart Geotechnics in 2023 and 2024, we cannot wait to play our part in this expanded iteration of the conference.
 
 Focusing on all things new, innovative and transformative in Ground Engineering, we believe it’s the perfect forum for us to showcase our latest software and to make and re-make connections within the Ground Engineering industry.
 
