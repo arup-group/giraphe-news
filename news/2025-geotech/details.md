@@ -1,4 +1,4 @@
-![Graphic showing Giraphe character and Gofer character with a GE GeoTech 2025 poster, inviting to join them](https://raw.githubusercontent.com/arup-group/giraphe-news/main/news/2025-geotech/topImage.png)
+![Graphic showing Giraphe character and Gofer character with a GE GeoTech 2025 poster, inviting to join them](https://raw.githubusercontent.com/arup-group/giraphe-news/main/news/2025-geotech/topImage.svg)
 
 We were at [**Ground Engineering’s GeoTech 2025 Conference**](https://geotech.geplus.co.uk/2025/en/page/home)!
 
